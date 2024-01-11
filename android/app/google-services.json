@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543219833104",
+    "project_id": "project-fresh-c194a",
+    "storage_bucket": "project-fresh-c194a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543219833104:android:5967a8b35e85354c77ad95",
+        "android_client_info": {
+          "package_name": "com.example.project_fresh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Hq_YysgaglJ4VdVlG5TOyg0EoWiPjiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
